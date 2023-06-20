@@ -54,3 +54,9 @@ a {
     width: 14px;
     height: 14px;
 }
+
+#sub-contents .icon {
+    margin-top: 8px;
+    width: 30px;
+    height: 30px;
+}
