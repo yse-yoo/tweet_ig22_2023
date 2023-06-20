@@ -21,3 +21,9 @@ a {
 #side-menu a {
     color: #303030;
 }
+
+.profile-image img {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+}
