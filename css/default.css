@@ -40,3 +40,8 @@ a {
 .tweet-body {
     padding: 5px;
 }
+
+.tweet-nav img {
+    width: 14px;
+    height: 14px;
+}
